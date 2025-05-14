@@ -1,9 +1,7 @@
 pandas 
 numpy 
-matplotlib.pyplot 
 seaborn 
 sentencepiece
-os
 joblib
 streamlit
 scikit-learn
